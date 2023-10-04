@@ -22,9 +22,9 @@ Skills: Laravel/PHP / JS / HTML / CSS/Booststrap/Tailwinds
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikHassan1&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/AnikHassan1)  
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:ah491606@gmail.com</h3>
 <p align="left">
 </p>
 
