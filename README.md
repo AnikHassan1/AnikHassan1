@@ -1,7 +1,7 @@
 ![Web Developer PHP ANd Laravel](https://media.licdn.com/dms/image/D5616AQE1Xx1kk_nSXQ/profile-displaybackgroundimage-shrink_350_1400/0/1706729199312?e=1712188800&v=beta&t=nwqUQuSDj5U2uUj4f1-vrd9WEnmVzAh3ENHTG-vGT-4)
 
 ### Hi there 👋, I'm Anik Miah
-#### Web Developer PHP ANd Laravel
+#### Web Developer PHP And Laravel
 
 
 I'm a front End Developer who is passionate  about making error-free web sites with 100% Client Satisfaction.  I have a Passion  for learning and shearing my knowledge with others as publicly as possible.  I love to solve-real-world problem. I am strategic goal oriented and always  work  with an end goal in mind. Over the past year's  I create  100s of website for my client. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with    PHP and Laravel but some technology I enjoy working with include ReactJS. Javascript  as well as wordpress.
